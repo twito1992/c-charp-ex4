@@ -1,0 +1,11 @@
+C:\Users\מור טואיטו\source\repos\‏‏c-charp-ex4\Ex04.Menus.Test\bin\Debug\EX04.Menus.Test.exe
+C:\Users\מור טואיטו\source\repos\‏‏c-charp-ex4\Ex04.Menus.Test\bin\Debug\EX04.Menus.Test.pdb
+C:\Users\מור טואיטו\source\repos\‏‏c-charp-ex4\Ex04.Menus.Test\bin\Debug\EX04.Menus.Delegates.dll
+C:\Users\מור טואיטו\source\repos\‏‏c-charp-ex4\Ex04.Menus.Test\bin\Debug\EX04.Menus.Interfaces.dll
+C:\Users\מור טואיטו\source\repos\‏‏c-charp-ex4\Ex04.Menus.Test\bin\Debug\EX04.Menus.Delegates.pdb
+C:\Users\מור טואיטו\source\repos\‏‏c-charp-ex4\Ex04.Menus.Test\bin\Debug\EX04.Menus.Interfaces.pdb
+C:\Users\מור טואיטו\source\repos\‏‏c-charp-ex4\Ex04.Menus.Test\obj\Debug\Ex04.Menus.Test.csprojAssemblyReference.cache
+C:\Users\מור טואיטו\source\repos\‏‏c-charp-ex4\Ex04.Menus.Test\obj\Debug\Ex04.Menus.Test.csproj.CoreCompileInputs.cache
+C:\Users\מור טואיטו\source\repos\‏‏c-charp-ex4\Ex04.Menus.Test\obj\Debug\Ex04.Menus.Test.csproj.CopyComplete
+C:\Users\מור טואיטו\source\repos\‏‏c-charp-ex4\Ex04.Menus.Test\obj\Debug\EX04.Menus.Test.exe
+C:\Users\מור טואיטו\source\repos\‏‏c-charp-ex4\Ex04.Menus.Test\obj\Debug\EX04.Menus.Test.pdb

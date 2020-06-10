@@ -1,0 +1,6 @@
+C:\Users\מור טואיטו\source\repos\‏‏c-charp-ex4\Ex04.Menus.Delegates\bin\Debug\EX04.Menus.Delegates.dll
+C:\Users\מור טואיטו\source\repos\‏‏c-charp-ex4\Ex04.Menus.Delegates\bin\Debug\EX04.Menus.Delegates.pdb
+C:\Users\מור טואיטו\source\repos\‏‏c-charp-ex4\Ex04.Menus.Delegates\obj\Debug\Ex04.Menus.Delegates.csproj.CoreCompileInputs.cache
+C:\Users\מור טואיטו\source\repos\‏‏c-charp-ex4\Ex04.Menus.Delegates\obj\Debug\EX04.Menus.Delegates.dll
+C:\Users\מור טואיטו\source\repos\‏‏c-charp-ex4\Ex04.Menus.Delegates\obj\Debug\EX04.Menus.Delegates.pdb
+C:\Users\מור טואיטו\source\repos\‏‏c-charp-ex4\Ex04.Menus.Delegates\obj\Debug\Ex04.Menus.Delegates.csprojAssemblyReference.cache

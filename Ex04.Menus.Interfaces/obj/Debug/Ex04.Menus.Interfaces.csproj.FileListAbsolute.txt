@@ -1,0 +1,6 @@
+C:\Users\מור טואיטו\source\repos\‏‏c-charp-ex4\Ex04.Menus.Interfaces\bin\Debug\EX04.Menus.Interfaces.dll
+C:\Users\מור טואיטו\source\repos\‏‏c-charp-ex4\Ex04.Menus.Interfaces\bin\Debug\EX04.Menus.Interfaces.pdb
+C:\Users\מור טואיטו\source\repos\‏‏c-charp-ex4\Ex04.Menus.Interfaces\obj\Debug\Ex04.Menus.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\מור טואיטו\source\repos\‏‏c-charp-ex4\Ex04.Menus.Interfaces\obj\Debug\EX04.Menus.Interfaces.dll
+C:\Users\מור טואיטו\source\repos\‏‏c-charp-ex4\Ex04.Menus.Interfaces\obj\Debug\EX04.Menus.Interfaces.pdb
+C:\Users\מור טואיטו\source\repos\‏‏c-charp-ex4\Ex04.Menus.Interfaces\obj\Debug\Ex04.Menus.Interfaces.csprojAssemblyReference.cache
